@@ -35,7 +35,7 @@ df <- cars
 plot(df)
 ```
 
-![](reglineal_calculo_files/figure-markdown_github/unnamed-chunk-2-1.png) \#Cálculo varianza
+![](https://github.com/MontseFigueiro/Linear_Regression/blob/master/unnamed-chunk-2-1.png) \#Cálculo varianza
 
 ``` r
 meanspeed <- mean(df$speed)
@@ -142,6 +142,6 @@ reg <- lm(dist~speed, cars)
 plot(cars)+ abline(reg)
 ```
 
-![](reglineal_calculo_files/figure-markdown_github/unnamed-chunk-11-1.png)
+![](https://github.com/MontseFigueiro/Linear_Regression/blob/master/unnamed-chunk-11-1.png)
 
     ## numeric(0)
